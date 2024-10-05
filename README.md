@@ -4,15 +4,9 @@
 
 # Point-MSD: Jointly Mamba Self-Supervised Self-Distilling Point Cloud Representation Learning
 
-*Linzhi Su*<sup>1</sup>,
-*Mengna Yang*<sup>1</sup>,
-*Jie Liu*<sup>2</sup>,
-*Xingxing Hao*<sup>1</sup>,
-*Kang Li*<sup>1</sup>,
-*Xin Cao*<sup>1</sup>
+Jie Liu, Mengna Yang, Yu Tian, Da Song, Kang Li, Xin Cao※.
 
-1 Northwest University, School of Information Science and Technology, China <br>
-2 Henan Normal University, College of Computer and Information Engineering, China 
+The 32th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2024), 2024. (Oral presentation)
 
 ## Installation
 
